@@ -15,29 +15,6 @@ WebHost is a simple and flexible web hosting project that demonstrates how to bu
 ---
 
 
-# Project Structure : 
-
-WebHost/
-├── index.html
-├── about.htm
-├── contact.htm
-├── styles/
-│   ├── main.css
-│   ├── theme.css
-├── scripts/
-│   ├── app.js
-│   ├── utils.js
-├── server/
-│   ├── contact.php
-│   ├── feedback.php
-├── assets/
-│   ├── logo.png
-│   ├── background.jpg
-├── README.md
-├── LICENSE.txt
-Sample README File (README.md)
-
-
 ## Project Structure
 ```plaintext
 WebHost/
